@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/bgsite.png);
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+p img {
+    margin-right: 15px;
+}
+
+@font-face {
+    font-family: PressStart2P-Regular;
+    src: url(PressStart2P-Regular.ttf);
+   }
+
+#discription {
+    margin-left: 342px;
+    width:682px;
+    height: auto;
+    text-align: center;
+    font-family: PressStart2P-Regular;
+    color: black;
+    font-size: 36;
+    
+}
+
+.app-store {
+	display: block;
+	margin: 12px auto 0;
+}
